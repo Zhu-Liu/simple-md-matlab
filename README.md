@@ -53,4 +53,4 @@ A 100-line MATLAB implementation of molecular dynamics (MD) simulations with the
 
 ## Contact
 
-* Zheyong Fan: brucenju(at)gmail.com; zheyong.fan(at)aalto.fi; zheyongfan(at)163.com
+* Zheyong Fan: brucenju(at)gmail.com
